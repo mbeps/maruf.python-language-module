@@ -9,6 +9,13 @@
     "categories": [
         "Extension Packs"
     ],
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/Microsoft/vscode-java-pack"
+	},
+    "activationEvents": [
+        "onLanguage:python"
+    ],
     "extensionPack": [ 
         "littlefoxteam.vscode-python-test-adapter",    
 		"dongli.python-preview",					
