@@ -14,9 +14,6 @@
 		"type": "git",
 		"url": "https://github.com/mbeps/python-extension-pack"
 	},
-    "activationEvents": [
-        "onLanguage:python"
-    ],
     "extensionPack": [ 
         "littlefoxteam.vscode-python-test-adapter",    
 		"dongli.python-preview",					
