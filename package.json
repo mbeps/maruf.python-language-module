@@ -23,7 +23,6 @@
 		"magicstack.MagicPython", 					
 		"KevinRose.vsc-python-indent", 				
 		"njpwerner.autodocstring", 						
-		"slightc.pip-manager",	
         
 		"ms-toolsai.jupyter-renderers",
 		"ms-toolsai.jupyter-keymap"	
