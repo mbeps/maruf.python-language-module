@@ -1,6 +1,6 @@
 {
-    "name": "python-extension-pack",
-    "displayName": "Python Extension Pack",
+    "name": "python-language-module",
+    "displayName": "Python Language Module",
     "description": "Includes only important Python extensions and nothing else. ",
     "version": "0.0.2",
 	"publisher": "Maruf",
