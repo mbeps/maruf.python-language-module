@@ -16,14 +16,15 @@
 	},
     "extensionPack": [ 
         "littlefoxteam.vscode-python-test-adapter",    
-		"dongli.python-preview",					
 		"donjayamanne.python-environment-manager",			
 		"ms-python.python", 							
 		"ms-python.vscode-pylance", 					
 		"magicstack.MagicPython", 					
 		"KevinRose.vsc-python-indent", 				
 		"njpwerner.autodocstring", 						
-        
+        "njqdev.vscode-python-typehint",
+        "zeshuaro.vscode-python-poetry",
+
 		"ms-toolsai.jupyter-renderers",
 		"ms-toolsai.jupyter-keymap"	
     ]
