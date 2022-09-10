@@ -25,6 +25,7 @@
         "zeshuaro.vscode-python-poetry",
 
 		"ms-toolsai.jupyter-renderers",
-		"ms-toolsai.jupyter-keymap"	
+		"ms-toolsai.jupyter-keymap",
+        "njqdev.vscode-python-typehint"
     ]
 }
