@@ -12,7 +12,7 @@
     ],
     "repository": {
 		"type": "git",
-		"url": "https://github.com/mbeps/python-extension-pack"
+		"url": "https://github.com/mbeps/maruf.python-language-module"
 	},
     "extensionPack": [ 
         "littlefoxteam.vscode-python-test-adapter",    
@@ -23,6 +23,7 @@
 		"njpwerner.autodocstring", 						
         "zeshuaro.vscode-python-poetry",
         "njqdev.vscode-python-typehint",
-        "ms-toolsai.jupyter"
+        "ms-toolsai.jupyter",
+        "bungcip.better-toml"
     ]
 }
