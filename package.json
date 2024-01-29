@@ -2,7 +2,7 @@
     "name": "python-language-module",
     "displayName": "Python Language Module",
     "description": "Includes only important Python extensions and nothing else. ",
-    "version": "0.0.4",
+    "version": "0.0.5",
 	"publisher": "Maruf",
     "engines": {
         "vscode": "^1.67.0"
@@ -26,6 +26,7 @@
         "ms-toolsai.jupyter",
         "ms-python.black-formatter",
         "ms-python.flake8",
-        "ms-python.pylint"
+        "ms-python.pylint",
+        "ms-python.debugpy"
     ]
 }
