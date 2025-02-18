@@ -2,7 +2,7 @@
     "name": "python-language-module",
     "displayName": "Python Language Module",
     "description": "Includes only important Python extensions and nothing else. ",
-    "version": "9.0.0",
+    "version": "9.1.0",
     "publisher": "Maruf",
     "engines": {
         "vscode": "^1.67.0"
@@ -17,6 +17,7 @@
     "extensionPack": [
         "littlefoxteam.vscode-python-test-adapter",
         "donjayamanne.python-environment-manager",
+        "ms-python.vscode-python-envs",
         "ms-python.python",
         "ms-python.vscode-pylance",
         "magicstack.MagicPython",
