@@ -2,7 +2,7 @@
     "name": "python-language-module",
     "displayName": "Python Language Module",
     "description": "Includes only important Python extensions and nothing else. ",
-    "version": "0.0.8",
+    "version": "9.0.0",
     "publisher": "Maruf",
     "engines": {
         "vscode": "^1.67.0"
@@ -24,12 +24,9 @@
         "zeshuaro.vscode-python-poetry",
         "njqdev.vscode-python-typehint",
         "ms-toolsai.jupyter",
-        "ms-python.black-formatter",
-        "ms-python.flake8",
-        "ms-python.pylint",
         "ms-python.debugpy",
         "ms-python.mypy-type-checker",
-        "ms-python.isort",
-        "charliermarsh.ruff"
+        "charliermarsh.ruff",
+        "tamasfe.even-better-toml"
     ]
 }
